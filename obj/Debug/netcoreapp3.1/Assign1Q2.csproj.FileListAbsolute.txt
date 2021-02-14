@@ -1,0 +1,13 @@
+/home/balochcoder/Projects/C#/Assign1Q2/obj/Debug/netcoreapp3.1/Assign1Q2.csprojAssemblyReference.cache
+/home/balochcoder/Projects/C#/Assign1Q2/obj/Debug/netcoreapp3.1/Assign1Q2.AssemblyInfoInputs.cache
+/home/balochcoder/Projects/C#/Assign1Q2/obj/Debug/netcoreapp3.1/Assign1Q2.AssemblyInfo.cs
+/home/balochcoder/Projects/C#/Assign1Q2/obj/Debug/netcoreapp3.1/Assign1Q2.csproj.CoreCompileInputs.cache
+/home/balochcoder/Projects/C#/Assign1Q2/bin/Debug/netcoreapp3.1/Assign1Q2
+/home/balochcoder/Projects/C#/Assign1Q2/bin/Debug/netcoreapp3.1/Assign1Q2.deps.json
+/home/balochcoder/Projects/C#/Assign1Q2/bin/Debug/netcoreapp3.1/Assign1Q2.runtimeconfig.json
+/home/balochcoder/Projects/C#/Assign1Q2/bin/Debug/netcoreapp3.1/Assign1Q2.runtimeconfig.dev.json
+/home/balochcoder/Projects/C#/Assign1Q2/bin/Debug/netcoreapp3.1/Assign1Q2.dll
+/home/balochcoder/Projects/C#/Assign1Q2/bin/Debug/netcoreapp3.1/Assign1Q2.pdb
+/home/balochcoder/Projects/C#/Assign1Q2/obj/Debug/netcoreapp3.1/Assign1Q2.dll
+/home/balochcoder/Projects/C#/Assign1Q2/obj/Debug/netcoreapp3.1/Assign1Q2.pdb
+/home/balochcoder/Projects/C#/Assign1Q2/obj/Debug/netcoreapp3.1/Assign1Q2.genruntimeconfig.cache
